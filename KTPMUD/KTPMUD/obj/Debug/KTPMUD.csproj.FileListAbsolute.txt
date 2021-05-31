@@ -1,0 +1,14 @@
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\bin\Debug\KTPMUD.exe.config
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\bin\Debug\KTPMUD.exe
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\bin\Debug\KTPMUD.pdb
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.csprojAssemblyReference.cache
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.Login.resources
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.Properties.Resources.resources
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.csproj.GenerateResource.cache
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.csproj.CoreCompileInputs.cache
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.exe
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.pdb
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.taotaikhoan.resources
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.manhinhchinh.resources
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.quenmatkhau.resources
+C:\Users\Tien dung\source\repos\KTPMUD\KTPMUD\obj\Debug\KTPMUD.quanlinguoidung.resources
